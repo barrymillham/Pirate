@@ -1,0 +1,4 @@
+age 0
+desc Angry
+gold 20
+location town
