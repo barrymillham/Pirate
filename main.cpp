@@ -11,7 +11,7 @@ int main() {
 		manager.newGame();
 	}
 
-	if (exitStatus == -1) {
+	if (exitStatus == faggot) {
 		return 0;
 	}
 
