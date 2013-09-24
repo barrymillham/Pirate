@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-age 55
-=======
-age 3
->>>>>>> 0249238e40e087c423ac48879016cc61fb61956d
+age 5
+age 0
+>>>>>>> parent of d7f8451... Ransac
 desc 2232
 gold 20
